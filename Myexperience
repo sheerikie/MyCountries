@@ -1,0 +1,87 @@
+I have served as a software enginee, responsible for full lifecycle development of
+next-generation software, from initial requirement gathering to design, coding, testing,
+documentation and implementation.
+Known for excellent client-facing skills, I also excel in merging business and user needs into high-quality,
+cost-effective design solutions while keeping within budgetary constraints.
+My technical expertise includes API development, API communication, cross-platform
+proficiency (Windows, Unix and Linux); fluency in 13 scripting/programming languages
+(including Golang, PHP /(Laravel), HTML, JavaScript, vue js, Angular Js, React Js, React
+Native, Node Js and SQL); and advanced knowledge of developer applications, tools,
+methodologies and best practices (including OOD,Functional Programming, client/server
+architecture and self-test automation).
+My experience developing user-friendly solutions on time and on budget would enable me to
+step into a software engineering role at your company and hit the ground running.
+
+
+I was once assigned to develop an application which our marketing team had over-promised its delivery date before consulting the tech team.The whole tech team were busy beating another deadline,so I being new to the company was assigned to develop the app before being released to the market.I had to learn new domain concepts in finance,and how the company structures its codebase a.s.a.p inorder to try and beat the tasks deadline asked.Finally we were able to complete the project on time,ofcourse after some sleepless nights.
+The system had appraisal from the market as well as the office management,which made everything worth it
+
+
+I have faced many hurdles in my career, and I personally feel that failures essentially change your personality.
+ The most important loss of my life was at the start of my career. At that time, I was entirely new to the corporate culture. What I learned from my working environment was to be disciplined and hard-working. I was responsible for interacting with clients and understanding the requirements. Being a fresher, I did not pay much attention to the details of the project. Instead, I focused only on my ethics and discipline. My poor listening skills led me to lose 2 weeks of my first days in the organization as I had designed the database and the system in the wrong way. 
+ It had a negative impact on my appraisal, and I realized where I lacked, I discussed the issue with my manager, and he helped me to teach how effectively can I handle projects. This project made me realize that, 
+along with specific essential values, you need to keep your focus and attention on listening and communicating effectively.
+Explain your Node js experience
+Experience with cloud platforms AWS, Azure etc.
+
+1. node express,serverless + AWS
+2. deploy to ec2
+3. aws s3 cloud storage
+4.rabbitMq
+5. Testing using Mocha and jest
+6. Git versioning control and Git development workflows.
+7.Experience with agile methodologies and JIRA to manage tasks and workflow
+
+8.simple node express app
+9.node strucyure
+
+
+1. event emitter ,listener
+2. new promise,resolve,reject
+3. REPL =read,eval,print,loop- program/environment that you enter command,parse it in js datastsructure,evaluates,
+then prints e.g CTRL+C
+4.Three types of globals
+        1.globals-namespace acts as a container for other global objects
+        2.process-turns asynchronous functions into synchronous callbacks
+        3.buffer-class in nodejs that handles binary data
+
+
+node js is a run-time environment that is used for creating server-side applications:
+why use node: Best for data intensive applications coz of asynchronous and event driven funcs,fast this good for realtime
+node modules: fs,gzip,http,url(splits url into readable formart)
+node js is not best for heavy computational work
+5.module.exports share file with other devs in an environment if they require it
+6.callback is a function that prevents blocking,after completion of a task,and allows other code to run in the meanwhile
+
+7.control-flow is a function that runs on other asynchronous functions calls
+8. fork vs spawn(new v8 engine vs new process in v8)
+9.piping =used to pass data from one stream to another
+10.callback hell-messy unreadable nested callbacks
+11.reactor pattern=concept of non blocking i/o in node
+12.test pyramid 1.unit test=your code
+                2.integration test=your code with other parts of app
+                3.end to end test=whole system
+13. node js exit code
+            1.uncaught fatal expression
+            2.unused
+            3.fatal error
+            4.interbal JavaScript evaluation
+            5.run time error
+14.middleware:function that receives a request and sends response
+
+15.agile=means fast,flexible and adaptible, agile methodology focuses on iterative approach
+16. principles in agile:1.customer satisfaction
+                        2.changing requirements
+                        3.Frequent delivery
+                        4.collaboration
+                        5.motivated team
+                        6.face to face conversation
+                        7. working software
+                        8.constant pace(time delivery)
+                        9.self organized
+                        10.good design
+
+                        sprints in scrum meetings
+                        writing user stories
+                        product backlog
+

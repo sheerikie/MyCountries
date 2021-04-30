@@ -1,0 +1,10 @@
+git config --list   //shows property of all configs you can set to git e.e name and email
+git help //shows commands to use in git
+git status //checks if there are any commits
+git log --author="Adrian Cooler" //shows commits of a particular user,incase you are a project manager
+
+
+/**Directory**/
+pwd //shows your current folder directory in git
+ls
+ls -la //shows the hidden files in git dir
